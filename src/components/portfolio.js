@@ -19,10 +19,10 @@ export default class Portfolio extends React.Component {
                 <li>express.js</li>
               </ul>
               <p className="project-description">
-                Wedler Engineering is a results-oriented,
-                value driven company that cultivates leadership
-                and empowers people to do better and be better in
-                their workplace and local community.
+                Reading with Annie is a website built for sharing reading experience.
+                Right now it's only a rough prototype, but the idea is for users to share
+                their notes with each other as well as their reviews on the book they read.
+                It's like a combination of goodreads, evernote and facebook.
               </p>
               <div className="button-group">
                 <a  className="btn btn-primary"
@@ -57,10 +57,8 @@ export default class Portfolio extends React.Component {
                 <li>express.js</li>
               </ul>
               <p className="project-description">
-                Wedler Engineering is a results-oriented,
-                value driven company that cultivates leadership
-                and empowers people to do better and be better in
-                their workplace and local community.
+                Allen NBA is a webiste I built for viewing basic NBA stats.
+                It also has a neat feature of searching of comparing players.
               </p>
               <div className="button-group">
                 <a  className="btn btn-primary"
@@ -87,10 +85,7 @@ export default class Portfolio extends React.Component {
                 <li>bootstrap</li>
               </ul>
               <p className="project-description">
-                Wedler Engineering is a results-oriented,
-                value driven company that cultivates leadership
-                and empowers people to do better and be better in
-                their workplace and local community.
+                This is a website I made as a chrismas gift to world's greatest mom.
               </p>
               <div className="button-group">
                 <a  className="btn btn-primary"
